@@ -1,0 +1,14 @@
+/engine/
+/work/
+/dist/
+/MP4Lite.exe
+/MP4Lite.exe.config
+*.zip
+*.mp4
+*.pdb
+*.tmp
+.vs/
+bin/
+obj/
+Thumbs.db
+Desktop.ini
